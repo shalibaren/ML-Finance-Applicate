@@ -3,7 +3,7 @@
 
    By collaborating financial knowledge with data science techniques to finish some projects in the end of the semester. Sharpen data mining skills as well as put machine learning theory into practice.
    
-   **`Self intro`**: NTU senior student majors in Accounting, interest in football, squash mountain climbing and surfing.
+   **`Self intro`**: NTU senior student majors in Accounting, interest in football, squash, mountain climbing and surfing.
 ***
 #### Week 1: 
 - Inclass ppt file: https://ppt.cc/fUjvPx
