@@ -9,7 +9,7 @@
   - projects introduction
   - works to be done
 - Progress
-  - Git Markdown self learning
-  
-  
+  - Git Markdown self learning: https://ppt.cc/fx
+  - Review Python skills: https://cognitiveclass.ai/learn/data-science-with-python/
+  - Draw a flow chart and add comments from: https://github.com/MiccWan/Political-News-Analysis
 ***
