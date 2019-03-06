@@ -13,4 +13,5 @@
   - Git Markdown self learning: https://ppt.cc/fx
   - Review Python skills: https://cognitiveclass.ai/learn/data-science-with-python/
   - Draw a flow chart and add comments from: https://github.com/MiccWan/Political-News-Analysis
+  - Flow chart website: https://www.draw.io/
 ***
