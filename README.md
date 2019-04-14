@@ -16,7 +16,7 @@
   - Flow chart website: https://www.draw.io/
 ***
 #### HW2: 
-- Inclass ppt file: https://ppt.cc/f18Zfx
+- 3/15 Inclass ppt file: https://ppt.cc/f18Zfx
 - Progress
   - EDA example: https://ppt.cc/f8oiAx
   - Co-occurrence Analysis: https://cran.r-project.org/web/packages/EcoSimR/vignettes/CoOccurrenceVignette.html
@@ -25,7 +25,7 @@
   - Jieba: https://pypi.org/project/jieba/
   - Chinese Named Entity Recognition (NER): https://github.com/Determined22/zh-NER-TF
   
-- Inclass ppt file: https://ppt.cc/fJA0Cx
+- 4/12 Inclass ppt file: https://ppt.cc/fJA0Cx
 - Progress
   - Intro to NER, word2vec
   - EDA example: https://github.com/r05323045/NTU_CSX4001_SPRING_2019/blob/master/hw1-3/hw1-3.ipynb
